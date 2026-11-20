@@ -1,0 +1,8 @@
+{
+  "name": "longest-valid-parentheses",
+  "version": "1.0.0",
+  "description": "Length of longest valid parentheses substring",
+  "main": "longestValidParentheses.js",
+  "scripts": { "test": "node test.js" },
+  "license": "MIT"
+}
